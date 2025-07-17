@@ -33,7 +33,7 @@ class Account:
             self, 
             token: str, 
             user_agent: str = "", 
-            https_proxy: str = None, 
+            https_proxy: str = "http://5uydau:xGkFZV@45.91.209.149:11628",
             requests_timeout: int = 15,
             request_max_retries: int = 30,
             **kwargs

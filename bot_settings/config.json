@@ -1,0 +1,19 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxZWU1NTUwNS1hZTlhLTYzZjAtZWE4ZS1iMTJjNTUxNWMxNTMiLCJpZGVudGl0eSI6IjFlZTU1NTA1LWFlYWItNjU2MC03NDQ3LTEwMWZhZmZiNTMyNCIsInJvbGUiOiJVU0VSIiwiaWF0IjoxNzUwMDU0NzQ1LCJleHAiOjE3ODE1OTA3NDV9.wQ3GGlgwlYiMKdr4nA5atYuhy_n169MJmqKZMOsywLI",
+    "user_agent": "",
+    "tg_admin_id": 5543057756,
+    "tg_bot_token": "8016449133:AAHe0uIvBMvLjlmAo6I_I92GLpttMpooSZo",
+    "playerokapi_requests_timeout": 30,
+    "playerokapi_listener_requests_delay": 2,
+    "messages_watermark_enabled": false,
+    "messages_watermark": "",
+    "read_chat_before_sending_message_enabled": true,
+    "first_message_enabled": true,
+    "custom_commands_enabled": true,
+    "auto_deliveries_enabled": true,
+    "auto_restore_items_enabled": true,
+    "auto_restore_items_priority_status": "DEFAULT",
+    "auto_complete_deals_enabled": true,
+    "bot_event_notifications_enabled": true,
+    "bot_event_notifications_chat_id": 0
+}

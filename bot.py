@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3
 from core.modules_manager import ModulesManager
 from core.handlers_manager import HandlersManager
 

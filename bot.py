@@ -1,3 +1,4 @@
+#!/bin/bash
 from core.modules_manager import ModulesManager
 from core.handlers_manager import HandlersManager
 

@@ -1,6 +1,6 @@
 {
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxZWU1NTUwNS1hZTlhLTYzZjAtZWE4ZS1iMTJjNTUxNWMxNTMiLCJpZGVudGl0eSI6IjFlZTU1NTA1LWFlYWItNjU2MC03NDQ3LTEwMWZhZmZiNTMyNCIsInJvbGUiOiJVU0VSIiwiaWF0IjoxNzUwMDU0NzQ1LCJleHAiOjE3ODE1OTA3NDV9.wQ3GGlgwlYiMKdr4nA5atYuhy_n169MJmqKZMOsywLI",
-    "user_agent": "",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
     "tg_admin_id": 5543057756,
     "tg_bot_token": "8016449133:AAHe0uIvBMvLjlmAo6I_I92GLpttMpooSZo",
     "playerokapi_requests_timeout": 30,
